@@ -592,6 +592,27 @@
             transform: translateY(-2px);
         }
 
+        .download-btn-alt {
+            background-color: var(--color-navy);
+        }
+
+        .download-btn-alt:hover {
+            background-color: var(--color-navy-light);
+        }
+
+        .download-btn-group {
+            display: flex;
+            flex-wrap: wrap;
+            gap: var(--space-md);
+            margin-top: var(--space-lg);
+            margin-bottom: var(--space-md);
+        }
+
+        .download-btn-group .download-btn {
+            margin-top: 0;
+            margin-bottom: 0;
+        }
+
         /* ────────────────────────────────
            PAGE ENTRY ANIMATIONS
         ──────────────────────────────── */

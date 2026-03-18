@@ -295,8 +295,11 @@ automatically.
                         <p>This content was authored and this interactive page was designed by <strong>Farid Nahadi Muigu</strong>.</p>
                         
                         <h3>Additional Resources</h3>
-                        <p>You can download the PDF version of this lesson for offline reference.</p>
-                        <a href="LaTeX_Beginners_Lesson_Preparation.pdf" download class="download-btn">Download PDF Lesson</a>
+                        <p>You can download the PDF version of this lesson for offline reference, or grab the sample LaTeX source code to practise with.</p>
+                        <div class="download-btn-group">
+                            <a href="LaTeX_Beginners_Lesson_Preparation.pdf" download class="download-btn">Download PDF Lesson</a>
+                            <a href="Sample.zip" download class="download-btn download-btn-alt">Download Sample Code</a>
+                        </div>
 
                         <p style="margin-top:2rem;color:var(--color-navy);font-family:var(--font-display);font-size:1.3rem;font-style:italic;">"The best way to learn LaTeX is to start writing with it."</p>
                     </div>
